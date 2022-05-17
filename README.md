@@ -10,3 +10,9 @@ Movie poster links (Kaggle scraped from IMDB): https://www.kaggle.com/datasets/n
 
 Bechdel test: https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-09/readme.md
 
+
+Merged movie information that have posters: https://uchicago.box.com/s/0a6rth1td6a3c8l5cdamnf9nwvfnhz5v 
+
+NP Array with RGB values of all posters (this is BIG, takes a while to download): https://uchicago.box.com/s/z3egn1oprxgjenjmmpu5dycda4s40hpr
+
+Image HW code: https://colab.research.google.com/drive/1GkOrzxYwJdsU3ZRPy-6qSUgxTxWIMfkP?usp=sharing 
