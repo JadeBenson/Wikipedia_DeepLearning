@@ -2,6 +2,9 @@
 This is the repository for our final group project for the Spring 2022 Deep Learning class that uses Wikipedia data. 
 
 
+Final Paper Google Doc: https://docs.google.com/document/d/1e3pmsSbIDGaVlIPUDp4iq8lyWq2oKraGQ1GjF7jyT3g/edit?usp=sharing
+
+
 The datasets are too large to be posted directly in this Github. Links are found below. 
 
 CMU Wikipedia plots, characters, genres, networks: http://www.cs.cmu.edu/~ark/personas/
